@@ -1,0 +1,54 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar-inverse {
+  background-color: grey;
+  border: none;
+}
+
+.navbar-inverse .navbar-brand {
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.navbar-inverse .navbar-toggle {
+  border-color: white;
+}
+
+.navbar-inverse .icon-bar {
+  background-color: white;
+}
+
+.navbar-nav > li > a {
+  color: #fff !important;
+  background-color: grey;
+  text-align: center;
+}
+
+.navbar-nav > li > a:hover {
+  background-color: grey;
+}
+
+h1 {
+  margin-top: 20px;
+  margin-bottom: 30px;
+  font-size: 30px;
+}
+
+.tall-section {
+  padding: 20px;
+  background-color: #eeeeee;
+  height: 1000px;
+}
+
+.menu-section {
+  background-color: #aaa;
+  border: 1px solid grey;
+  color: white;
+  padding: 20px;
+  border-radius: 5px;
+}
